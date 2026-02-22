@@ -34,7 +34,7 @@ No external Python libraries required — uses only the standard library.
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/ayushmaan-ray/DFIR-Automated-Forensic-Artifact-Collector)
 cd dfir-artifact-collector
 chmod +x collector.py
 ```
